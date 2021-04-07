@@ -1,19 +1,21 @@
 ---
 title: "Data Memo"
+subtitle: "Data Science III (STAT 301-3) Final Project"
 author: "Jana Kim, Natalie Tomeh, and Jose Sotelo"
 date: "4/7/2021"
 output: html_document
 ---
 
-Data Science III (STAT 301-3)
+
 Please write up a data memo once you have identified data to use for your final project. Submit it as a compiled HTML file (use R Markdown). The completed memo should be between 1 and 2 pages (approximate, if text is put into Word or PDF).
 
 Memo contents should include, but are not limited to, the following:
 
 Proposed project timeline: When do you expect to have your dataset loaded into R? When do you expect to start your analysis?
-Simple overview of the dataset. What does the dataset document? How do you plan to collect it? (Is it a simple download, a webscrape, etc? Provide a citation.) How big is the dataset? What kinds of variables will you be dealing with? Any missingness? Do you need to join two or more sources of data together?
-Description of potential research questions. Are they predictive or inferential? (Should be predictive questions!) Are these questions best answered by a classification or regression-based approach? What is the response variable? Which variables do you suspect will be useful in modeling the response?
-Any difficulties you may encounter along the way: Is the data collection mechanism complicated? Is there significant missingness in the data?
-The memo should be completed in RMarkdown. 
 
-Neatness, organization, and reproducibility of your memo will have a significant influence on your grade!
+Simple overview of the dataset. What does the dataset document? How do you plan to collect it? (Is it a simple download, a webscrape, etc? Provide a citation.) How big is the dataset? What kinds of variables will you be dealing with? Any missingness? Do you need to join two or more sources of data together?
+
+Description of potential research questions. Are they predictive or inferential? (Should be predictive questions!) Are these questions best answered by a classification or regression-based approach? What is the response variable? Which variables do you suspect will be useful in modeling the response?
+
+Any difficulties you may encounter along the way: Is the data collection mechanism complicated? Is there significant missingness in the data?
+
